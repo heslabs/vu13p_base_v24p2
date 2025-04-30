@@ -25,7 +25,7 @@ $ . ./E-CoreFlow-Gui-Run.sh
 * File -> Open -> PASS.bmprj
 
 ---
-### Step-4: Check the FPGA bitstream location (./PASS.bit)
+### Step-4: Check the FPGA bitstream location 
 
 * Program -> Select File: ./PASS.bit
 
@@ -35,7 +35,7 @@ $ . ./E-CoreFlow-Gui-Run.sh
 ---
 ### Step-5: Select the VU13P systen
 
-* Program -> Select File: ./PASS.bit
+* System -> Select System -> LAN Select System
   
 <img src="https://github.com/user-attachments/assets/345a3453-68b8-4fee-8b49-5c66e9906c00" width=650>
 
