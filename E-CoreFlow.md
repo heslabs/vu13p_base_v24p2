@@ -33,8 +33,12 @@ $ . ./E-CoreFlow-Gui-Run.sh
 
 
 ---
-### Step: Select the VU13P systen
+### Step-5: Select the VU13P systen
 
 * Program -> Select File: ./PASS.bit
   
 <img src="https://github.com/user-attachments/assets/345a3453-68b8-4fee-8b49-5c66e9906c00" width=650>
+
+
+---
+### Step-6: Configure the system
