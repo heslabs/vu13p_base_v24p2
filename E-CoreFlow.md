@@ -8,7 +8,7 @@ $ cd ~/xsct
 $ . ./E-CoreFlow-Gui-Run.sh
 ```
 
-![image](https://github.com/user-attachments/assets/2fbe953e-5651-428a-9688-4c8c966ffaf6)
+<img src="https://github.com/user-attachments/assets/2fbe953e-5651-428a-9688-4c8c966ffaf6" width=650>
 
 
 ---
@@ -17,7 +17,7 @@ $ . ./E-CoreFlow-Gui-Run.sh
 * Board -> EPS-VU13P
   
 
-![image](https://github.com/user-attachments/assets/60988d9d-0a5b-4bd4-b315-6a33abbb44c3)
+<img src="https://github.com/user-attachments/assets/60988d9d-0a5b-4bd4-b315-6a33abbb44c3" width=650>
 
 ---
 ### Step-3: Select project file
@@ -29,11 +29,12 @@ $ . ./E-CoreFlow-Gui-Run.sh
 
 * Program -> Select File: ./PASS.bit
 
-![image](https://github.com/user-attachments/assets/0237739c-31e0-4a08-8567-aed69493aef3)
+<img src="https://github.com/user-attachments/assets/0237739c-31e0-4a08-8567-aed69493aef3" width=650>
 
 
 ---
 ### Step: Select the VU13P systen
 
 * Program -> Select File: ./PASS.bit
-![image](https://github.com/user-attachments/assets/345a3453-68b8-4fee-8b49-5c66e9906c00)
+  
+<img src="https://github.com/user-attachments/assets/345a3453-68b8-4fee-8b49-5c66e9906c00" width=650>
