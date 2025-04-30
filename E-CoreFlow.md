@@ -28,3 +28,12 @@ $ . ./E-CoreFlow-Gui-Run.sh
 ### Step-4: Check the FPGA bitstream location (./PASS.bit)
 
 * Program -> Select File: ./PASS.bit
+
+![image](https://github.com/user-attachments/assets/0237739c-31e0-4a08-8567-aed69493aef3)
+
+
+---
+### Step: Select the VU13P systen
+
+* Program -> Select File: ./PASS.bit
+![image](https://github.com/user-attachments/assets/345a3453-68b8-4fee-8b49-5c66e9906c00)
