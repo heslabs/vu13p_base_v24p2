@@ -17,13 +17,13 @@
 #### Step-1: Configure and program FPGA
 
 * Launch FPGA tool "Confpro-SX" in Linux shell
-* Openthe Confpro project file (PASS.csprj) with the FPGA bitstream (PASS.bit)
+* Openthe Confpro project file (PASS.bmprj) with the FPGA bitstream (PASS.bit)
 * Select the HAPS system in the scanned list
 * Configure the system and wait few seconds
 * Check the successful message.  ```Operation successful!```
 
 ```
-/home/eda/Confpro-SX_1.1.10/guibin/Confpro-SX-GuiRun.sh &
+./E-CoreFlow-Gui-Run.sh &
 ```
 
 #### Step-2: Connect HAPS-PC from remote
@@ -31,7 +31,7 @@
 * Connect HAPS-ZYNQ via serial console
 
 ```
-<Remote> $ sshpass -p <password> ssh user@59.124.169.195 -X
+<Remote> $ sshpass -p <password> ssh vu13p@59.124.169.195 -X
 ```
 
 #### Step-3: Connect HAPS-ZYNQ via serial console from HAPS-PC  
@@ -63,7 +63,7 @@ password: xilinx
 * To connect HAPS-ZYNQ from HAPS-PC via ssh:  
 
 ```
-<HAPS-PC> $ sshpass -p xilinx ssh xilinx@192.169.50.3 -X
+<HAPS-PC> $ sshpass -p xilinx ssh xilinx@192.169.50.14 -X
 ```
 
 #### Step-5:
