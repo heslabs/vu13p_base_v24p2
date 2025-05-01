@@ -21,7 +21,25 @@
 * Welcome to PynqLinux, based pn Ubuntu 22.04
   * PYNQ Linux, based pn Ubuntu 22.04 pynq ttyPS0
   * pynq login: xilinx | Password: xilinx
- 
+
+
+---
+
+```
+xilinx@pynq:~/haps$ uname -a
+Linux pynq 5.15.36-xilinx-v2022.2 #1 SMP Mon Oct 3 07:50:07 UTC 2022 aarch64 aarch64 aarch64 GNU/Linux
+xilinx@pynq:~/haps$ lsmem
+RANGE                                 SIZE  STATE REMOVABLE   BLOCK
+0x0000000000000000-0x000000007fffffff   2G online        no    0-15
+0x0000000800000000-0x000000087fffffff   2G online        no 256-271
+0x0000001000000000-0x00000013ffffffff  16G online        no 512-639
+
+Memory block size:       128M
+Total online memory:      20G
+Total offline memory:      0B
+```
+
+
 
 
 ---
