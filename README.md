@@ -1,7 +1,9 @@
 # HAPS VU13P Quick Start Guide
 
+### FPGA Prototyping Platform - Lab setup 
 
-
+<img src="https://github.com/user-attachments/assets/713f953a-b265-42f8-8df8-45b70c512401" width=850>
+ 
 ---
 ### Hardware configuration 
 
