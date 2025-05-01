@@ -10,6 +10,14 @@
 
 <img src="https://github.com/user-attachments/assets/7ea2f458-19a5-45a4-8c84-6f7f78f6adb4" width=850>
 
+---
+
+<img src="https://github.com/user-attachments/assets/6b8b8ba2-7766-4286-8f00-945dba08c9c0" width=850>
+
+<img src="https://github.com/user-attachments/assets/68e45ed7-3656-4384-93fb-b6fc687bf89e" width=850>
+
+<img src="https://github.com/user-attachments/assets/e979904f-7972-4326-ace9-b016c12b7544" width=850>
+
 
 ---
 ### Linux Booting Sequence
