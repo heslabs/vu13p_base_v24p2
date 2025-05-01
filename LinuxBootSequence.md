@@ -13,6 +13,11 @@
   * Load kernel from FIT Image at 10000000 ....
   * Loading Device Tree to 0000007bbee000, end 000000007bbfab31 ... OK
 * Starting Kernel .....
+  * Booting Linux on physical CPU 0x0000000000 [0x410fd034]
+  * Linux version 5.15.36-xilinx-v2022.2 (aarch64-xilinx-linux-gcc (GCC) 1.2.0
+  * Machine model: xlnx, zynqmp
+  * earlycon: cdns0 at MMIO 0x00000000ff000000 (options '115200n81)
+  * printk: bootconsole [cdns0] enabled
 * Welcome to PynqLinux, based pn Ubuntu 22.04
   * PYNQ Linux, based pn Ubuntu 22.04 pynq ttyPS0
   * pynq login: xilinx | Password: xilinx
