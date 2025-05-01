@@ -14,7 +14,6 @@
 ---
 ### Debug
 
-<img src="https://github.com/user-attachments/assets/6b8b8ba2-7766-4286-8f00-945dba08c9c0" width=850>
 
 <img src="https://github.com/user-attachments/assets/68e45ed7-3656-4384-93fb-b6fc687bf89e" width=850>
 
