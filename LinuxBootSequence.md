@@ -11,7 +11,8 @@
 * pynq login: xilinx | Password: xilinx
  
 
-```
+
+---
 
 <img src="https://github.com/user-attachments/assets/c76460cd-42cf-4f14-992e-79d86fff2f95" width=850>
 
