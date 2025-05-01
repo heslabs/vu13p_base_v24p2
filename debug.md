@@ -1,6 +1,7 @@
 
 
 ---
+### Kernel panic
 
 <img src="https://github.com/user-attachments/assets/71bcf8f0-4db7-494d-8a0f-a2916a9c5c96" width=850>
 
