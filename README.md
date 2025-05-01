@@ -12,6 +12,17 @@
 | HAPS-PC | 192.168.50.5 | Linux PC | N/A |
 
 ---
+### ESP-VU13P
+
+| Product Name | EPS-VU13P |
+|:-|:-|
+| Serial Number | EC231115 |
+| MAC Adderess | 00:0a:35:10:0e:b9 |
+| IP Adderess | 192.168.50.13 |
+| Firmware Version | FW-1.0.0 |
+| Hardware Version | FW-1.0.3 |
+
+---
 ### Remote access to HAPS and ZYNQ module
 
 #### Step-1: Configure and program FPGA
