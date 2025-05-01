@@ -2,11 +2,15 @@
 ---
 ### Linux Booting Sequence
 
-* Xilinx Zynq MP First Stage Boot Loader
-* U-Boot 2022.01
+* Xilinx Zynq MP First Stage Boot Loader .....
+  * Release 2022.2  
+* U-Boot 2022.01 .....
   * CPU: ZynqMP | Board: Xilinx ZynqMP | DRAM: 2- GiB
   * PMUFW: v1.1 | EL Level: EL2 | Chip ID: zu4
   * MMC: mmc@ff160000:0, mmc@ff170000:1
+* Found U-Boot script /boot.scr
+  * Trying to load boot imagess from mmc1
+  * Load kernel from FIT Image at 10000000 ....
 * Starting Kernel .....
 * Welcome to PynqLinux, based pn Ubuntu 22.04
   * PYNQ Linux, based pn Ubuntu 22.04 pynq ttyPS0
