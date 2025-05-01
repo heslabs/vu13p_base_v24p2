@@ -12,3 +12,9 @@
 
 
 ---
+### Linux Booting Sequence
+
+<img src="https://github.com/user-attachments/assets/1889d3c5-a0db-4717-a52b-7caa4ec6a3f5" width=850>
+
+
+<img src="https://github.com/user-attachments/assets/3fac9c62-0631-4771-bc6a-8e804390575b" width=850>
