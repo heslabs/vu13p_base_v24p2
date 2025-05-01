@@ -39,6 +39,34 @@ Total online memory:      20G
 Total offline memory:      0B
 ```
 
+```
+xilinx@pynq:~/haps$ cpuinfo
+Python Version: 3.10.4.final.0 (64 bit)
+Cpuinfo Version: 9.0.0
+Vendor ID Raw: ARM
+Hardware Raw: 
+Brand Raw: Cortex-A53
+Hz Advertised Friendly: 1.2000 GHz
+Hz Actual Friendly: 1.2000 GHz
+Hz Advertised: (1200000000, 0)
+Hz Actual: (1200000000, 0)
+Arch: ARM_8
+Bits: 64
+Count: 4
+Arch String Raw: aarch64
+L1 Data Cache Size: 
+L1 Instruction Cache Size: 
+L2 Cache Size: 
+L2 Cache Line Size: 
+L2 Cache Associativity: 
+L3 Cache Size: 
+Stepping: 
+Model: 4
+Family: 
+Processor Type: 
+Flags: aes, asimd, cpuid, crc32, fp, pmull, sha1, sha2
+```
+
 
 
 
