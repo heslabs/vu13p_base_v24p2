@@ -9,8 +9,8 @@
   * MMC: mmc@ff160000:0, mmc@ff170000:1
 * Starting Kernel .....
 * Welcome to PynqLinux, based pn Ubuntu 22.04
-* PYNQ Linux, based pn Ubuntu 22.04 pynq ttyPS0
-* pynq login: xilinx | Password: xilinx
+  * PYNQ Linux, based pn Ubuntu 22.04 pynq ttyPS0
+  * pynq login: xilinx | Password: xilinx
  
 
 
