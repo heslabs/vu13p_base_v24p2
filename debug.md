@@ -23,6 +23,9 @@
 ---
 ### Linux Booting Sequence
 
+<img src="https://github.com/user-attachments/assets/c76460cd-42cf-4f14-992e-79d86fff2f95" width=850>
+
+
 <img src="https://github.com/user-attachments/assets/1889d3c5-a0db-4717-a52b-7caa4ec6a3f5" width=850>
 
 
