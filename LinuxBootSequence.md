@@ -1,11 +1,13 @@
 
 ---
-## Linux Booting Sequence
+### Linux Booting Sequence
+
+* Xilinx Zynq MP First Stage Boot Loader
 * U-Boot 2022.01
   * CPU: ZynqMP | Board: Xilinx ZynqMP | DRAM: 2- GiB
   * PMUFW: v1.1 | EL Level: EL2 | Chip ID: zu4
   * MMC: mmc@ff160000:0, mmc@ff170000:1
-* Starting kernel .....
+* Starting Kernel .....
 * Welcome to PynqLinux, based pn Ubuntu 22.04
 * PYNQ Linux, based pn Ubuntu 22.04 pynq ttyPS0
 * pynq login: xilinx | Password: xilinx
@@ -13,6 +15,7 @@
 
 
 ---
+### Linux Booting Sequence
 
 <img src="https://github.com/user-attachments/assets/c76460cd-42cf-4f14-992e-79d86fff2f95" width=850>
 
