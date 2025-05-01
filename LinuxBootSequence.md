@@ -11,6 +11,7 @@
 * Found U-Boot script /boot.scr
   * Trying to load boot imagess from mmc1
   * Load kernel from FIT Image at 10000000 ....
+  * Loading Device Tree to 0000007bbee000, end 000000007bbfab31 ... OK
 * Starting Kernel .....
 * Welcome to PynqLinux, based pn Ubuntu 22.04
   * PYNQ Linux, based pn Ubuntu 22.04 pynq ttyPS0
