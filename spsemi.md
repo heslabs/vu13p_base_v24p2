@@ -23,6 +23,8 @@ Password: rpi5demo
 ssh xilinx@192.168.72.3 -X (Password: xilinx)
 cd ~/haps
 make bus
+make yolov8n-pos
+make yolov8n-seg
 ```
 
 ---
