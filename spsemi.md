@@ -57,6 +57,7 @@ make bus
 ### Runing Yolov8 - USBcam
 
 ```
+cd ~/haps
 make yolov8n-pos
 make yolov8n-seg
 ```
