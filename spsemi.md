@@ -28,6 +28,14 @@ make yolov8n-seg
 ```
 
 ---
+### Connecting Zynq via Serial 
+
+```
+sudo chmod 777 /dev/ttyUSB*
+putty -serial -sercfg 115200,8,n,1,N /dev/ttyUSB1 -fn "client:Ubuntu Mono 18" &
+```
+
+---
 ### Connecting Zynq via SSH and Install Yolov8
 
 ```
