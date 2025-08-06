@@ -16,6 +16,12 @@ Login: demo
 Password: rpi5demo
 ```
 
+---
+### Connecting AnyDesk
+
+```
+1577246064
+```
 
 ---
 ### Connecting Zynq and Install Yolov8
