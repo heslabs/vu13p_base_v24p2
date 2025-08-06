@@ -21,6 +21,12 @@ Password: rpi5demo
 
 ```
 ssh xilinx@192.168.72.3 -X (Password: xilinx)
+```
+
+---
+### Connecting ZYNQ via SSH
+
+```
 cd ~/haps
 make bus
 make yolov8n-pos
@@ -28,7 +34,7 @@ make yolov8n-seg
 ```
 
 ---
-### Connecting Zynq via Serial 
+### Connecting ZYNQ via Serial 
 
 ```
 sudo chmod 777 /dev/ttyUSB*
@@ -36,7 +42,7 @@ putty -serial -sercfg 115200,8,n,1,N /dev/ttyUSB1 -fn "client:Ubuntu Mono 18" &
 ```
 
 ---
-### Connecting Zynq via SSH and Install Yolov8
+### Connecting ZYNQ via SSH and Install Yolov8
 
 ```
 ssh xilinx@192.168.72.3 -X (Password: xilinx)
