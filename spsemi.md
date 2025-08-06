@@ -41,7 +41,7 @@ make yolov8n-seg
 ```
 
 ---
-### Connecting ZYNQ via SSH and Install Yolov8 (Optional)
+### Connecting ZYNQ via SSH and Install Yolov8
 
 ```
 ssh xilinx@192.168.72.3 -X (Password: xilinx)
