@@ -59,7 +59,7 @@ $ putty -serial -sercfg 115200,8,n,1,N /dev/ttyUSB0 -fn "client:Ubuntu Mono 16" 
 * Enter username and password (xilinx:xilinx)
   
 ```
-pynq login: xilinx
+login: xilinx
 password: xilinx
 ```
 
