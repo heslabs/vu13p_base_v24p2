@@ -11,6 +11,7 @@ scp spsemi@59.124.169.195:./vu13p/vu13p_base_v24p2.v505.tgz .
 ### Install Yolov8
 
 ```
+ssh xilinx@192.168.72.110 -X (Password: xilinx)
 pip install ultralytics
 scp spsemi@59.124.169.195:./zynq/zynq-yolov8.v806a.tgz .
 tar zxvf zynq-yolov8.v806a.tgz
