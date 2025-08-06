@@ -38,7 +38,7 @@
 
 #### Step-2: Connect HAPS-PC from remote
 
-* Connect HAPS-ZYNQ via serial console
+* Connect HAPS-ZYNQ via Ethernet
 
 ```
 <Remote> $ sshpass -p <password> ssh vu13p@59.124.169.195 -X
