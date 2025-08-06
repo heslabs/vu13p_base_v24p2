@@ -17,10 +17,12 @@ Password: rpi5demo
 ```
 
 ---
-### Connecting AnyDesk
+### Connecting AnyDesk: 1577246064
 
 ```
-1577246064
+ssh xilinx@192.168.72.3 -X (Password: xilinx)
+cd ~/haps
+make bus
 ```
 
 ---
