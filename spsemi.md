@@ -8,6 +8,16 @@ scp spsemi@59.124.169.195:./vu13p/vu13p_base_v24p2.v505.tgz .
 ```
 
 ---
+### Login WiFi router and find the IP address of Zynq module
+
+```
+https://192.168.72.1
+Login: demo
+Password: rpi5demo
+```
+
+
+---
 ### Connecting Zynq and Install Yolov8
 
 ```
