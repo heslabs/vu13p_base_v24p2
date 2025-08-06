@@ -63,7 +63,7 @@ make yolov8n-seg
 ```
 
 ---
-### Connecting ZYNQ via SSH and Install Yolov8
+### Connecting ZYNQ via SSH and Install Yolov8 (Optional)
 
 ```
 ssh xilinx@192.168.72.3 -X (Password: xilinx)
@@ -77,7 +77,7 @@ make bus
 ```
 
 ---
-### Install Utilities
+### Install Utilities (Optional)
 
 ```
 sudo apt install nomacs feh
