@@ -4,7 +4,7 @@
 ### Step-1: Launch E-CoreFlow
 
 ```
-$ cd ~/xsct
+$ cd ~/E-CoreFlow
 $ . ./E-CoreFlow-Gui-Run.sh
 ```
 
