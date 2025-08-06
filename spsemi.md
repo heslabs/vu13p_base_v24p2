@@ -27,7 +27,7 @@ Password: rpi5demo
 ### Connecting Zynq and Install Yolov8
 
 ```
-ssh xilinx@192.168.72.110 -X (Password: xilinx)
+ssh xilinx@192.168.72.3 -X (Password: xilinx)
 sudo apt install feh
 pip install numpy cv2
 pip install ultralytics
