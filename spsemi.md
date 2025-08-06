@@ -93,3 +93,9 @@ pip install numpy
 pip install cv2
 ```
 
+---
+### Grove Vision AI v2
+
+```
+https://seeed-studio.github.io/SenseCraft-Web-Toolkit
+```
