@@ -24,11 +24,13 @@ Password: rpi5demo
 ```
 
 ---
-### Connecting HAPS-PC via AnyDesk: 1577246064
+### Connecting HAPS-PC via AnyDesk: 
 
 ```
-ssh xilinx@192.168.72.3 -X (Password: xilinx)
+AnyDesk ID: 1577246064
 ```
+
+
 ---
 ### Connecting ZYNQ via Serial 
 
@@ -39,10 +41,22 @@ putty -serial -sercfg 115200,8,n,1,N /dev/ttyUSB1 -fn "client:Ubuntu Mono 18" &
 
 ---
 ### Connecting ZYNQ via SSH
+```
+ssh xilinx@192.168.72.3 -X (Password: xilinx)
+```
+
+---
+### Runing Yolov8 - Image
 
 ```
 cd ~/haps
 make bus
+```
+
+---
+### Runing Yolov8 - USBcam
+
+```
 make yolov8n-pos
 make yolov8n-seg
 ```
