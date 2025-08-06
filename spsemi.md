@@ -17,7 +17,7 @@ Password: rpi5demo
 ```
 
 ---
-### Connecting AnyDesk: 1577246064
+### Connecting HAPS-PC via AnyDesk: 1577246064
 
 ```
 ssh xilinx@192.168.72.3 -X (Password: xilinx)
@@ -28,7 +28,7 @@ make yolov8n-seg
 ```
 
 ---
-### Connecting Zynq and Install Yolov8
+### Connecting Zynq via SSH and Install Yolov8
 
 ```
 ssh xilinx@192.168.72.3 -X (Password: xilinx)
