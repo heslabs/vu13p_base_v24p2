@@ -17,8 +17,6 @@ python3 -m venv venv
 source venv/bin/activate
 pip install aiohttp requests tapo
 pip install numpy matplotlib scipy pyqt5
-## Test Python installation
-python ./zynq/scipy-pylab.py
 ```
 
 ---
