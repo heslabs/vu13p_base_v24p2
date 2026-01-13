@@ -28,7 +28,7 @@ export TAPO_IPADD_PWR="192.168.1.8"
 
 ```
 source ./venv/bin/activate
-python ./zynq-reset.py
+python3 ./zynq-reset.py
 ```
 
 ```
