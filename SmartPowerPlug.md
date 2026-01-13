@@ -17,6 +17,10 @@ python3 -m venv venv
 source venv/bin/activate
 pip install aiohttp requests tapo
 pip install numpy matplotlib scipy pyqt5
+
+export TAPO_USERNAME="your_username@company.com"
+export TAPO_PASSWORD="your_password"
+export TAPO_IPADD_PWR="192.168.1.8"
 ```
 
 ---
