@@ -66,6 +66,10 @@ device_usage = await device.get_device_usage()
 print(f"Device usage: {device_usage.to_dict()}")
 
 if __name__ == "__main__":
+```
+
+
+
     asyncio.run(main())
 
 ```
