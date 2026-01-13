@@ -1,4 +1,4 @@
-# Smart power Plug
+# Smart Power Plug
 
 * The smart WiFi plug is used to reset HAPS-ZYNQ after HAPS-FPGA programmed
    * Tapo P105 | Mini Smart Wi-Fi Plug [[Tapo]](https://www.tapo.com/en/product/smart-plug/tapo-p105/)
